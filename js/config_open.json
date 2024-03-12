@@ -3,145 +3,138 @@
     "sites": [
     {
                 "key": "gzh",
-                "name": "🍭乐享汇fans丨公众号",
+                "name": "🍭KM丨豆瓣",
                  "type": 3,
                 "indexs": 1,			
                 "api": "douban_open.js"
             },
    {
-                "key": "douban",
-                "name": "🍭乐享汇fans丨豆瓣",
-                "type": 3,
-	 "indexs": 1,			
-                "api": "douban_open.js"
-            },
-            {
                 "key": "wogg1",
-                "name": "🎬️乐享汇fans丨玩偶①",
+                "name": "🎬️KM丨玩偶①",
                 "type": 3,
                 "api": "wogg_open.js",
-                "ext": "阿狸token码"
+                "ext": "4f7952322f6848c08854e85561b570c2"
             },
             {
                 "key": "wogg2",
-                "name": "🎬️乐享汇fans丨玩偶②",
+                "name": "🎬️KM丨玩偶②",
                 "type": 3,
                 "api": "wogg2_open.js",
-                "ext": "阿狸token码"
+                "ext": "4f7952322f6848c08854e85561b570c2"
             },	
             {
                 "key": "wolb",
-                "name": "🎬️乐享汇fans丨表哥①",
+                "name": "🎬️KM丨表哥①",
                 "type": 3,
                 "api": "wolb_open.js",
-                "ext": "阿狸token码"
+                "ext": "4f7952322f6848c08854e85561b570c2"
             },
             {
                 "key": "wobg1",
-                "name": "🎬️乐享汇fans丨表哥②",
+                "name": "🎬️KM丨表哥②",
                 "type": 3,
                 "api": "wobg_open.js",
-                "ext": "阿狸token码"
+                "ext": "4f7952322f6848c08854e85561b570c2"
             },	            			
  {
         "key": "kkys",
-        "name": "🎬️乐享汇fans丨快看",
+        "name": "🎬️KM丨快看",
         "type": 3,
        "api": "kkys_open.js"
     },
 {
           "key": "subaibai",
-          "name": "🎬️乐享汇fans丨素白",
+          "name": "🎬️KM丨素白",
           "type": 3,
          "api": "subaibai_open.js"
     },
    {
         "key": "czzy",
-        "name": "🎬️乐享汇fans丨厂长",
+        "name": "🎬️KM丨厂长",
         "type": 3,
        "api": "czzy_open.js"
    },  						
             {
                 "key": "ggys",
-                "name": "🎬️乐享汇fans丨高光",
+                "name": "🎬️KM丨高光",
                 "type": 3,
                 "api": "ggys_open.js"
             },				
             {
                 "key": "tutu",
-                "name": "🎬️乐享汇fans丨图图",
+                "name": "🎬️KM丨图图",
                 "type": 3,
                 "api": "tutu_open.js"
             },													
             {
                 "key": "sc1080",
-                "name": "🎬️乐享汇fans丨圣城",
+                "name": "🎬️KM丨圣城",
                 "type": 3,
                 "api": "sc1080_open.js"
             },	
             {
                 "key": "ys996",
-                "name": "🎬️乐享汇fans丨九六",
+                "name": "🎬️KM丨九六",
                 "type": 3,
                 "api": "ys996_open.js"
             },							
             {
                 "key": "ikanbot",
-                "name": "🎬️乐享汇fans丨爱看",
+                "name": "🎬️KM丨爱看",
                 "type": 3,
                 "api": "ikanbot_open.js"
             },	
             {
                 "key": "nkvod",
-                "name": "🎬️乐享汇fans丨耐看",
+                "name": "🎬️KM丨耐看",
                 "type": 3,
                 "api": "nkvod_open.js"
             },				                  
  {
         "key": "ikanbot",
-        "name": "🎬️乐享汇fans丨爱看",
+        "name": "🎬️KM丨爱看",
         "type": 3,
        "api": "ikanbot_open.js"
     }, 
  {
         "key": "ng",
-        "name": "🎬️乐享汇fans丨南瓜",
+        "name": "🎬️KM丨南瓜",
         "type": 3,
        "api": "ng_open.js"
    },
  {
         "key": "yiqik",
-        "name": "🎬️乐享汇fans丨一起",
+        "name": "🎬️KM丨一起",
         "type": 3,
         "api": "yqktv_open.js"
       }   ,   	
 {
       "key": "555",
-      "name": "🎬️乐享汇fans丨五五",
+      "name": "🎬️KM丨五五",
       "type": 3,
       "api": "555dy_open.js"
    },      
 {
         "key": "libvio",
-        "name": "🎬️乐享汇fans丨立播",
+        "name": "🎬️KM丨立播",
         "type": 3,
        "api": "libvio_open.js"
    }, 
     {
         "key": "yzys",
-        "name": "🎬️乐享汇fans丨柚子",
+        "name": "🎬️KM丨柚子",
         "type": 3,
         "api": "yzys_open.js"
    }, 
  {
         "key": "bulei_open",
-        "name": "🎬️乐享汇fans丨布蕾",
+        "name": "🎬️KM丨布蕾",
         "type": 3,
         "api": "bulei_open.js"
    },  
  {
                 "key": "rejumao",
-                "name": "🎬乐享汇fans丨热剧",
+                "name": "🎬KM丨热剧",
                 "type": 3,
                 "api": "apptov5_open.js",
                 "ext": {
@@ -154,7 +147,7 @@
    },
   {
         "key": "zyys",
-        "name": "🎬️乐享汇fans丨追忆",
+        "name": "🎬️KM丨追忆",
         "type": 3,
         "api": "apptov5_open.js",
         "ext": {
@@ -167,208 +160,208 @@
     },
    {
                 "key": "mino",
-                "name": "🎬乐享汇fans丨米诺",
+                "name": "🎬KM丨米诺",
                 "type": 3,
                 "api": "mino_open.js"
      },    
  {
         "key": "yrzj",
-        "name": "🎬️乐享汇fans丨伊人",
+        "name": "🎬️KM丨伊人",
         "type": 3,
         "api": "yrzj_open.js"
    },  
   {
         "key": "jojo_open",
-        "name": "🎬️乐享汇fans丨俊俊",
+        "name": "🎬️KM丨俊俊",
         "type": 3,
         "api": "jiohub_open.js"
    },   
            {
                 "key": "voflix",
-                "name": "🟢乐享汇fans丨VF",
+                "name": "🟢KM丨VF",
                 "type": 3,
                 "api": "voflix_open.js" 
             },
  {
         "key": "ytvip",
-        "name": "🟢乐享汇fans丨影探",
+        "name": "🟢KM丨影探",
         "type": 3,
        "api": "yt_open.js",
         "ext": "http://ytcms.lyyytv.cn/api.php/app/"
       }, 
             {
                 "key": "yzz",
-                "name": "🟢乐享汇fans丨影啧",
+                "name": "🟢KM丨影啧",
                 "type": 3,
                 "api": "yzz_open.js"
             },
             {
                 "key": "inmi",
-                "name": "🟢乐享汇fans丨映迷",
+                "name": "🟢KM丨映迷",
                 "type": 3,
                 "api": "ym_open.js" 
             },
   {
                 "key": "rbk",
-                "name": "🟢乐享汇fans丨播庫",
+                "name": "🟢KM丨播庫",
                 "type": 3,
                 "api": "rbk_open.js" 
             },
             {
                 "key": "52ju",
-                "name": "🟢乐享汇fans丨五二",
+                "name": "🟢KM丨五二",
                 "type": 3,
                 "api": "52ju_open.js" 
             },
             {
                 "key": "rbzj",
-                "name": "🟢乐享汇fans丨派比",
+                "name": "🟢KM丨派比",
                 "type": 3,
                 "api": "rbzj_open.js" 
             },
             {
                 "key": "1free",
-                "name": "🟢乐享汇fans丨一笑",
+                "name": "🟢KM丨一笑",
                 "type": 3,
                 "api": "1free_open.js" 
             },
             {
                 "key": "panghu",
-                "name": "🟢乐享汇fans丨胖虎",
+                "name": "🟢KM丨胖虎",
                 "type": 3,
                 "api": "panghu_open.js"
             },
   {
                 "key": "lz",
-                "name": "🟢乐享汇fans丨量子",
+                "name": "🟢KM丨量子",
                 "type": 3,
                 "api": "lz_open.js"
             },	
             {
                 "key": "mfk",
-                "name": "🟢乐享汇fans丨免费",
+                "name": "🟢KM丨免费",
                 "type": 3,
                 "api": "mfk_open.js"
             },
             {
                 "key": "4kys",
-                "name": "🟢乐享汇fans丨四开",
+                "name": "🟢KM丨四开",
                 "type": 3,
                 "api": "4kys_open.js"
             },
             {
                 "key": "zjm",
-                "name": "🟢乐享汇fans丨剧迷",
+                "name": "🟢KM丨剧迷",
                 "type": 3,
                 "api": "zjm_open.js"
             },
  {
                 "key": "mgys",
-                "name": "🟢乐享汇fans丨蘑菇",
+                "name": "🟢KM丨蘑菇",
                 "type": 3,
                 "api": "mgys_open.js"
             },
    {
                 "key": "dsxys",
-                "name": "🟢乐享汇fans丨师兄",
+                "name": "🟢KM丨师兄",
                 "type": 3,
                 "api": "dsxys_open.js" 
             },
 
  {
                 "key": "dnys",
-                "name": "🟢乐享汇fans丨多瑙",
+                "name": "🟢KM丨多瑙",
                 "type": 3,
                 "api": "dnys_open.js" 
             },
             {
                 "key": "dyxs",
-                "name": "🟢乐享汇fans丨先生",
+                "name": "🟢KM丨先生",
                 "type": 3,
                 "api": "dyxs_open.js" 
             },
             {
                 "key": "mayiya",
-                "name": "🟢乐享汇fans丨麻衣",
+                "name": "🟢KM丨麻衣",
                 "type": 3,
                 "api": "mayiya_open.js" 
             },
             {
                 "key": "kunyu77",
-                "name": "🟢乐享汇fans丨七七",
+                "name": "🟢KM丨七七",
                 "type": 3,
                 "api": "kunyu77_open.js"
             },
    {
                 "key": "live",
-                "name": "📺乐享汇fans丨直播",
+                "name": "📺KM丨直播",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://tvbox.serv00.net/live.php"
             },
   {
         "key": "cntv",
-        "name": "📺乐享汇fans丨新闻",
+        "name": "📺KM丨新闻",
         "type": 3,
        "api": "cntv_open.js"
     },  
             {
                 "key": "huya",
-                "name": "📺乐享汇fans丨虎牙",
+                "name": "📺KM丨虎牙",
                 "type": 3,
                 "api": "huya_open.js"
             },
             {
                 "key": "douyu",
-                "name": "📺乐享汇fans丨斗鱼",
+                "name": "📺KM丨斗鱼",
                 "type": 3,
                 "api": "douyu_open.js"
             },
  {
                 "key": "adm",
-                "name": "🎞乐享汇fans丨动漫",
+                "name": "🎞KM丨动漫",
                 "type": 3,
                 "api": "adm_open.js"
              },
              {
                 "key": "anfun",
-                "name": "🎞乐享汇fans丨Afun",
+                "name": "🎞KM丨Afun",
                 "type": 3,
                 "api": "anfun_open.js"
             },
             {
                 "key": "58dm",
-                "name": "🎞乐享汇fans丨五八",
+                "name": "🎞KM丨五八",
                 "type": 3,
                 "api": "58dm_open.js"
             },
     {
         "key": "ubestkid",
-        "name": "🎞乐享汇fans丨贝乐虎",
+        "name": "🎞KM丨贝乐虎",
         "type": 3,
        "api": "ubestkid_open.js"
     },  
     {
         "key": "tuxiaobei",
-        "name": "🎞乐享汇fans丨兔小贝",
+        "name": "🎞KM丨兔小贝",
         "type": 3,
        "api": "tuxiaobei_open.js"
     }, 
     {
         "key": "boosj",
-        "name": "🎞乐享汇fans丨童趣",
+        "name": "🎞KM丨童趣",
         "type": 3,
        "api": "boosj_open.js"
     }, 	
 {
         "key": "bili",
-        "name": "🎞乐享汇fans丨我哔",
+        "name": "🎞KM丨我哔",
         "type": 3,
        "api": "mybili_open.js"
    }, 
 {
         "key": "bilibili",
-        "name": "🎞乐享汇fans丨哔哩",
+        "name": "🎞KM丨哔哩",
         "type": 3,
        "api": "bili_open.js",
         "ext": { "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;" 
@@ -376,102 +369,102 @@
    }, 
 {
                 "key": "djwm",
-                "name": "🎦乐享汇fans丨短剧",
+                "name": "🎦KM丨短剧",
                 "type": 3,
                 "api": "djwm_open.js"
             },
             {
                 "key": "mimiju",
-                "name": "🎦乐享汇fans丨迷迷",
+                "name": "🎦KM丨迷迷",
                 "type": 3,
                 "api": "mimiju_open.js"
             },	
             {
                 "key": "kuwo",
-                "name": "🎦乐享汇fans丨酷我",
+                "name": "🎦KM丨酷我",
                 "type": 3,
                 "api": "kuwo_open.js"
             },			
             {
                 "key": "vsdj",
-                "name": "🎦乐享汇fans丨VSM",
+                "name": "🎦KM丨VSM",
                 "type": 3,
                 "api": "vsdj_open.js"
             },	
      {
         "key": "sharenice",
-        "name": "🎦乐享汇fans丨短视频",
+        "name": "🎦KM丨短视频",
         "type": 3,
        "api": "sharenice_open.js"
    }, 
   {
         "key": "kuqimv",
-        "name": "🎦乐享汇fans丨MV",
+        "name": "🎦KM丨MV",
         "type": 3,
        "api": "kuqimv_open.js"
     },
   {   "key": "MV_vod",
-                "name": "🎦乐享汇fans丨K歌",
+                "name": "🎦KM丨K歌",
                 "type": 3,
                 "api":"caiji.js",
                 "ext": "https://mv.wogg.link/mv/vod"      
   },
             {
                 "key": "wf",
-                "name": "✈️乐享汇fans丨奈飞",
+                "name": "✈️KM丨奈飞",
                 "type": 3,
                 "api": "wf_open.js"
             },
     {
         "key": "nivod",
-        "name": "✈️乐享汇fans丨泥巴",
+        "name": "✈️KM丨泥巴",
         "type": 3,
        "api": "nivod_open.js",
         "ext": "888解忧愁"
     },     
 {
         "key": "duboku",
-        "name": "✈️乐享汇fans丨独播①",
+        "name": "✈️KM丨独播①",
         "type": 3,
        "api": "duboku_open.js"
     }, 	
     {
         "key": "dubokufq",
-        "name": "✈️乐享汇fans丨独播②",
+        "name": "✈️KM丨独播②",
         "type": 3,
        "api": "dubokufq_open.js"
     },    
    {
         "key": "caiji",
-        "name": "🏵乐享汇fans | 采集",
+        "name": "🏵KM | 采集",
         "type": 3,
        "api": "caiji_open.js",
         "ext": "https://ikunzyapi.com/api.php/provide/vod"
     },    
            {
                 "key": "qtw",
-                "name": "🏵乐享汇fans | 毛子",
+                "name": "🏵KM | 毛子",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
             },
             {
                 "key": "kuku",
-                "name": "🏵乐享汇fans | 逗逗",
+                "name": "🏵KM | 逗逗",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://cms.realdou.cn:35264/api.php/app/"
             },
             {
                 "key": "宝仙（APP）",
-                "name": "🏵乐享汇fans | 宝仙",
+                "name": "🏵KM | 宝仙",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://webdillo.com/api.php/app/"
             },
             {
                 "key": "快帆",
-                "name": "🏵乐享汇fans | 快帆",
+                "name": "🏵KM | 快帆",
                 "type": 1,
                 "api": "caiji.js",
                 "ext": {
@@ -502,7 +495,7 @@
             },
             {
                 "key": "555",
-                "name": "🏵乐享汇fans | 三五",
+                "name": "🏵KM | 三五",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://555dy3.com/api.php/app/"
@@ -510,7 +503,7 @@
             {
             
              "key": "49zyw",
-             "name": "🏵乐享汇fans | 四九",
+             "name": "🏵KM | 四九",
              "type": 3,
              "api": "caiji.js",
              "ext": {
@@ -546,7 +539,7 @@
          },
          {
                 "key": "suoni",
-                "name": "🏵乐享汇fans | 索尼",
+                "name": "🏵KM | 索尼",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": {
@@ -573,14 +566,14 @@
             },
             {
                 "key": "69mj",
-                "name": "🏵乐享汇fans | 美剧",
+                "name": "🏵KM | 美剧",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://www.69mj.com/xgapp.php/v2/"
             },
             {
                 "key": "wolong",
-                "name": "🏵乐享汇fans | 卧龙",
+                "name": "🏵KM | 卧龙",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": {
@@ -590,203 +583,203 @@
             },
             {
                 "key": "yiying",
-                "name": "🏵乐享汇fans | 壹影",
+                "name": "🏵KM | 壹影",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://www.heyik.cn/api.php/v1.vod"
             },
             {
                 "key": "aidi",
-                "name": "🏵乐享汇fans | 爱迪",
+                "name": "🏵KM | 爱迪",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://api123.adys.app/xgapp.php/v3/"
             },
             {
                 "key": "hello",
-                "name": "🏵乐享汇fans | 哈喽",
+                "name": "🏵KM | 哈喽",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://www.miniku.cc/xgapp.php/v1/"
             },
             {
                 "key": "beijihu",
-                "name": "🏵乐享汇fans | 极狐",
+                "name": "🏵KM | 极狐",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://www.kuin.one/api.php/app/"
             },
             {
                 "key": "kuk",
-                "name": "🏵乐享汇fans | 天堂",
+                "name": "🏵KM | 天堂",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://dytt996.com/api.php/app/"
             },
             {
                 "key": "kku",
-                "name": "🏵乐享汇fans | 酷影",
+                "name": "🏵KM | 酷影",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
             },
             {
                 "key": "sukan",
-                "name": "🏵乐享汇fans | 速看",
+                "name": "🏵KM | 速看",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "https://sk100.tv/api.php/app/"
             },
             {
                 "key": "qtw",
-                "name": "🏵乐享汇fans | 彩虹",
+                "name": "🏵KM | 彩虹",
                 "type": 3,
                 "api": "AppYsV2.js",
                 "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
             },
             {
                 "key": "bfzy",
-                "name": "🏵乐享汇fans | 暴风",
+                "name": "🏵KM | 暴风",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://bfzyapi.com/api.php/provide/vod/"
             },
             {
                 "key": "lehuo",
-                "name": "🏵乐享汇fans | 乐活",
+                "name": "🏵KM | 乐活",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://cj.vodimg.top/api.php/provide/vod/"
             },
             {
                 "key": "yingtu",
-                "name": "🏵乐享汇fans | 影图",
+                "name": "🏵KM | 影图",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://cj.vodimg.top/api.php/provide/vod/"
             },
             {
                 "key": "feifan",
-                "name": "🏵乐享汇fans | 非凡",
+                "name": "🏵KM | 非凡",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
             },
             {
                 "key": "feisu",
-                "name": "🏵乐享汇fans | 飞速",
+                "name": "🏵KM | 飞速",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
             },
             {
                 "key": "jszyapi",
-                "name": "🏵乐享汇fans | 极速",
+                "name": "🏵KM | 极速",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://jszyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "hhzyapi",
-                "name": "🏵乐享汇fans | 火狐",
+                "name": "🏵KM | 火狐",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "42",
-                "name": "🏵乐享汇fans | 四二",
+                "name": "🏵KM | 四二",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://www.42.la/api.php/provide/vod/from/42m3u8/at/json"
             },
             {
                 "key": "apitiankongapi",
-                "name": "🏵乐享汇fans | 天空",
+                "name": "🏵KM | 天空",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
             },
             {
                 "key": "pgfenwe078",
-                "name": "🏵乐享汇fans | 四圈",
+                "name": "🏵KM | 四圈",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
             },
             {
                 "key": "moviegsl99",
-                "name": "🏵乐享汇fans | 新马",
+                "name": "🏵KM | 新马",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
             },
              {
                 "key": "feifei67",
-                "name": "🏵乐享汇fans | 飞飞",
+                "name": "🏵KM | 飞飞",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "http://www.feifei67.com/api.php/provide/vod/at/json"
             },
            {
         "key": "阿里盘寻",
-        "name": "🍭乐享汇fans丨盘寻",
+        "name": "🍭KM丨盘寻",
         "type": 3,
         "api": "pansearch_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "阿里盘搜",
-        "name": "🍭乐享汇fans丨盘搜",
+        "name": "🍭KM丨盘搜",
         "type": 3,
         "api": "pansou_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "阿里七夜",
-        "name": "🍭乐享汇fans丨七夜",
+        "name": "🍭KM丨七夜",
         "type": 3,
         "api": "dovx_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "小纸条",
-        "name": "🍭乐享汇fans丨纸条",
+        "name": "🍭KM丨纸条",
         "type": 3,
         "api": "xiaozhitiao_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "UP云搜",
-        "name": "🍭乐享汇fans丨云搜",
+        "name": "🍭KM丨云搜",
         "type": 3,
         "api": "upyun_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "易搜",
-        "name": "🍭乐享汇fans丨易搜",
+        "name": "🍭KM丨易搜",
         "type": 3,
         "api": "yiso_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "云盘4K",
-        "name": "🍭乐享汇fans丨云盘",
+        "name": "🍭KM丨云盘",
         "type": 3,
         "api": "yunpan4k_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "找资源",
-        "name": "🍭乐享汇fans丨资源",
+        "name": "🍭KM丨资源",
         "type": 3,
         "api": "zhaozy_open.js",
-        "ext": "阿狸token码"
+        "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "夸克趣盘搜",
-        "name": "🍭乐享汇fans丨夸克",
+        "name": "🍭KM丨夸克",
         "type": 3,
         "api": "funletu_open.js",
         "ext": "夸克cookie"
@@ -797,25 +790,25 @@
      "sites": [      
         {
                 "key": "zz123",
-                "name": "🎧乐享汇fans丨音乐",
+                "name": "🎧KM丨音乐",
                 "type": 10,
                 "api": "zz123_open.js"
             },   
    {
         "key": "bookan",
-        "name": "🎧乐享汇fans丨博看",
+        "name": "🎧KM丨博看",
         "type": 10,
        "api": "bookan_open.js"
     },
     {
         "key": "lbgs",
-        "name": "🎧乐享汇fans丨老白",
+        "name": "🎧KM丨老白",
         "type": 10,
        "api": "lbgs_open.js"
     },	
     {
         "key": "230ts_book",
-        "name": "🎧乐享汇fans丨艾尚",
+        "name": "🎧KM丨艾尚",
         "type": 10,
       "api": "230ts_book_open.js"
     }
@@ -825,7 +818,7 @@
     "sites": [
       {
         "key": "alist",
-        "name": "乐享汇fans云盘大全",
+        "name": "KM云盘大全",
         "type": 40,
        "api": "alist_open.js",
         "ext": [
@@ -1217,7 +1210,7 @@
       "server": "http://69.161.221.160:5244/"
     },
           {
-            "name": "公众号：乐享汇fans",
+            "name": "KM：KM",
             "server": "https://pan.xwbeta.com"
           }
         ]
