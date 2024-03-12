@@ -6,7 +6,22 @@
                 "name": "🍭KM丨豆瓣",
                  "type": 3,
                 "indexs": 1,			
-                "api": "douban_open.js"
+                "api": "douban_open.js"           
+    },	            			
+    {
+                "key": "wogg1",
+                "name": "🎬️KM丨玩偶①",
+                "type": 3,
+                "api": "./wobg_open.js",
+                "ext": "4f7952322f6848c08854e85561b570c2"
+            },
+            {
+                "key": "wogg2",
+                "name": "🎬️KM丨玩偶②",
+                "type": 3,
+                "api": "./wobg_open.js",
+                "ext": "4f7952322f6848c08854e85561b570c2"
+	    
             },
    {
                 "key": "wolb",
@@ -21,29 +36,8 @@
                 "type": 3,
                 "api": "wobg_open.js",
                 "ext": "4f7952322f6848c08854e85561b570c2"
-            },	            			
- {
-
-                "key": "wogg1",
-                "name": "🎬️KM丨玩偶①",
-                "type": 3,
-                "api": "wogg_open.js",
-                "ext": "4f7952322f6848c08854e85561b570c2"
-            },
+	    },
             {
-                "key": "wogg2",
-                "name": "🎬️KM丨玩偶②",
-                "type": 3,
-                "api": "wogg2_open.js",
-                "ext": "4f7952322f6848c08854e85561b570c2"
-            },	
- {
-        "key": "kkys",
-        "name": "🎬️KM丨快看",
-        "type": 3,
-       "api": "kkys_open.js"
-    },
-{
           "key": "subaibai",
           "name": "🎬️KM丨素白",
           "type": 3,
@@ -55,12 +49,6 @@
         "type": 3,
        "api": "czzy_open.js"
    },  						
-            {
-                "key": "ggys",
-                "name": "🎬️KM丨高光",
-                "type": 3,
-                "api": "ggys_open.js"
-            },				
             {
                 "key": "tutu",
                 "name": "🎬️KM丨图图",
@@ -108,12 +96,6 @@
         "name": "🎬️KM丨一起",
         "type": 3,
         "api": "yqktv_open.js"
-      }   ,   	
-{
-      "key": "555",
-      "name": "🎬️KM丨五五",
-      "type": 3,
-      "api": "555dy_open.js"
    },      
 {
         "key": "libvio",
@@ -122,31 +104,6 @@
        "api": "libvio_open.js"
    }, 
     {
-        "key": "yzys",
-        "name": "🎬️KM丨柚子",
-        "type": 3,
-        "api": "yzys_open.js"
-   }, 
- {
-        "key": "bulei_open",
-        "name": "🎬️KM丨布蕾",
-        "type": 3,
-        "api": "bulei_open.js"
-   },  
- {
-                "key": "rejumao",
-                "name": "🎬KM丨热剧",
-                "type": 3,
-                "api": "apptov5_open.js",
-                "ext": {
-                    "domains": ["https://app-1253196701.cos.ap-shanghai.myqcloud.com/app.txt", "https://www.daenwl.com/app.txt"],
-                    "aesKey": "8y8sDX3ZG22yACH3ZM5KfNGieTxEMKFe",
-                    "aesIV": "WxRAbh68C8pP6SpN",
-                    "rasPublicKey": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Ykikz4aIqkJC899VxwX\nwx27bZJGV/fDbgAHtXxZ73Mq8QWuPfeAanWDWiGPhJu5aVQndADi7B0L5RBIrirf\n6lIzA+l8Ubt6+nvPYQ9NSlRkObE4ML2Hw7ccAmcqzDD0vplJz7Y8o7qKIoyfK5NP\nXDuiv52HgbyEP6KlWCiDfMuIsAA+/3x9C/0RDRgjf3x+24EuGOD6Gnw+rVJCOb64\nW4KZ7vH/uhaQSLLnNYF9VD00c072tOeaBt2mElexJN66gcP65kmrkI5grFz2RcEg\nIEkwUcYBNiFeHUcFyQZuDj/DLqQidwMhFJfkcUuMtByR9cYl9BpqT/3NKVQ1EPrV\n7QIDAQAB\n-----END PUBLIC KEY-----",
-                    "ic": "fwEUWytkwJqHICtu/kNrXOVGQAzWUw1mGuQYdT1heOKZ6vEEI+4jf6LAHJ/f4h39ZR2WL4fccGchSoCm+pqkBRi8asSMqZzKGGfY8ejzrYHxDjiTOhs4B6p/iC8Nrj+bcCmXAjVNksfxlcjU6JlbRQ=="
-            }
-   },
-  {
         "key": "zyys",
         "name": "🎬️KM丨追忆",
         "type": 3,
@@ -160,37 +117,12 @@
                     }
     },
    {
-                "key": "mino",
-                "name": "🎬KM丨米诺",
-                "type": 3,
-                "api": "mino_open.js"
-     },    
- {
-        "key": "yrzj",
-        "name": "🎬️KM丨伊人",
-        "type": 3,
-        "api": "yrzj_open.js"
-   },  
-  {
-        "key": "jojo_open",
-        "name": "🎬️KM丨俊俊",
-        "type": 3,
-        "api": "jiohub_open.js"
-   },   
-           {
                 "key": "voflix",
                 "name": "🟢KM丨VF",
                 "type": 3,
                 "api": "voflix_open.js" 
             },
  {
-        "key": "ytvip",
-        "name": "🟢KM丨影探",
-        "type": 3,
-       "api": "yt_open.js",
-        "ext": "http://ytcms.lyyytv.cn/api.php/app/"
-      }, 
-            {
                 "key": "yzz",
                 "name": "🟢KM丨影啧",
                 "type": 3,
@@ -203,22 +135,10 @@
                 "api": "ym_open.js" 
             },
   {
-                "key": "rbk",
-                "name": "🟢KM丨播庫",
-                "type": 3,
-                "api": "rbk_open.js" 
-            },
-            {
                 "key": "52ju",
                 "name": "🟢KM丨五二",
                 "type": 3,
                 "api": "52ju_open.js" 
-            },
-            {
-                "key": "rbzj",
-                "name": "🟢KM丨派比",
-                "type": 3,
-                "api": "rbzj_open.js" 
             },
             {
                 "key": "1free",
@@ -257,12 +177,6 @@
                 "api": "zjm_open.js"
             },
  {
-                "key": "mgys",
-                "name": "🟢KM丨蘑菇",
-                "type": 3,
-                "api": "mgys_open.js"
-            },
-   {
                 "key": "dsxys",
                 "name": "🟢KM丨师兄",
                 "type": 3,
@@ -288,12 +202,6 @@
                 "api": "mayiya_open.js" 
             },
             {
-                "key": "kunyu77",
-                "name": "🟢KM丨七七",
-                "type": 3,
-                "api": "kunyu77_open.js"
-            },
-   {
                 "key": "live",
                 "name": "📺KM丨直播",
                 "type": 3,
@@ -375,12 +283,6 @@
                 "api": "djwm_open.js"
             },
             {
-                "key": "mimiju",
-                "name": "🎦KM丨迷迷",
-                "type": 3,
-                "api": "mimiju_open.js"
-            },	
-            {
                 "key": "kuwo",
                 "name": "🎦KM丨酷我",
                 "type": 3,
@@ -399,18 +301,6 @@
        "api": "sharenice_open.js"
    }, 
   {
-        "key": "kuqimv",
-        "name": "🎦KM丨MV",
-        "type": 3,
-       "api": "kuqimv_open.js"
-    },
-  {   "key": "MV_vod",
-                "name": "🎦KM丨K歌",
-                "type": 3,
-                "api":"caiji.js",
-                "ext": "https://mv.wogg.link/mv/vod"      
-  },
-            {
                 "key": "wf",
                 "name": "✈️KM丨奈飞",
                 "type": 3,
@@ -425,52 +315,25 @@
     },     
 {
         "key": "duboku",
-        "name": "✈️KM丨独播①",
+        "name": "✈️KM丨独播",
         "type": 3,
        "api": "duboku_open.js"
     }, 	
     {
-        "key": "dubokufq",
-        "name": "✈️KM丨独播②",
-        "type": 3,
-       "api": "dubokufq_open.js"
-    },    
-   {
         "key": "caiji",
         "name": "🏵KM | 采集",
         "type": 3,
-       "api": "caiji_open.js",
-        "ext": "https://ikunzyapi.com/api.php/provide/vod"
-    },    
-           {
-                "key": "qtw",
-                "name": "🏵KM | 毛子",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-            },
-            {
-                "key": "kuku",
-                "name": "🏵KM | 逗逗",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://cms.realdou.cn:35264/api.php/app/"
-            },
-            {
-                "key": "宝仙（APP）",
-                "name": "🏵KM | 宝仙",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://webdillo.com/api.php/app/"
-            },
-            {
-                "key": "快帆",
-                "name": "🏵KM | 快帆",
-                "type": 1,
-                "api": "caiji.js",
-                "ext": {
-                    "url": "https://api.kuaifan.tv/api.php/provide/vod",
-                    "categories": [
+         "api": "caiji_open.js",
+            "ext": "https://ikunzyapi.com/api.php/provide/vod" 
+    }, 	
+    { 
+            "key": "火狐资源",
+            "name": "🏵KM | 火狐",
+            "type": 3,
+            "api": "./caiji.js",
+            "ext":{
+              "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
+                        "categories": [
                         "国产剧",
                         "香港剧",
                         "台湾剧",
@@ -495,21 +358,13 @@
                 }
             },
             {
-                "key": "555",
-                "name": "🏵KM | 三五",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://555dy3.com/api.php/app/"
-            },
-            {
-            
-             "key": "49zyw",
-             "name": "🏵KM | 四九",
-             "type": 3,
-             "api": "caiji.js",
-             "ext": {
-             "url": "https://49zyw.com/api.php/provide/vod/from/49zyw",
-             "categories": [
+                  "key": "红牛资源",
+                  "name": "🏵KM 丨红牛",
+                  "type": 3,
+                  "api": "./caiji.js",
+             "ext":{
+                 "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
+              "categories": [
              "动作片",
              "国产剧",
              "欧美剧",
@@ -566,13 +421,6 @@
               }
             },
             {
-                "key": "69mj",
-                "name": "🏵KM | 美剧",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://www.69mj.com/xgapp.php/v2/"
-            },
-            {
                 "key": "wolong",
                 "name": "🏵KM | 卧龙",
                 "type": 3,
@@ -583,88 +431,11 @@
                 }
             },
             {
-                "key": "yiying",
-                "name": "🏵KM | 壹影",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://www.heyik.cn/api.php/v1.vod"
-            },
-            {
-                "key": "aidi",
-                "name": "🏵KM | 爱迪",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://api123.adys.app/xgapp.php/v3/"
-            },
-            {
-                "key": "hello",
-                "name": "🏵KM | 哈喽",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://www.miniku.cc/xgapp.php/v1/"
-            },
-            {
-                "key": "beijihu",
-                "name": "🏵KM | 极狐",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://www.kuin.one/api.php/app/"
-            },
-            {
-                "key": "kuk",
-                "name": "🏵KM | 天堂",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://dytt996.com/api.php/app/"
-            },
-            {
-                "key": "kku",
-                "name": "🏵KM | 酷影",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-            },
-            {
-                "key": "sukan",
-                "name": "🏵KM | 速看",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "https://sk100.tv/api.php/app/"
-            },
-            {
-                "key": "qtw",
-                "name": "🏵KM | 彩虹",
-                "type": 3,
-                "api": "AppYsV2.js",
-                "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
-            },
-            {
                 "key": "bfzy",
                 "name": "🏵KM | 暴风",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://bfzyapi.com/api.php/provide/vod/"
-            },
-            {
-                "key": "lehuo",
-                "name": "🏵KM | 乐活",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
-            },
-            {
-                "key": "yingtu",
-                "name": "🏵KM | 影图",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "https://cj.vodimg.top/api.php/provide/vod/"
-            },
-            {
-                "key": "feifan",
-                "name": "🏵KM | 非凡",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
             },
             {
                 "key": "feisu",
@@ -688,25 +459,11 @@
                 "ext": "https://hhzyapi.com/api.php/provide/vod/at/json"
             },
             {
-                "key": "42",
-                "name": "🏵KM | 四二",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "https://www.42.la/api.php/provide/vod/from/42m3u8/at/json"
-            },
-            {
                 "key": "apitiankongapi",
                 "name": "🏵KM | 天空",
                 "type": 3,
                 "api": "caiji.js",
                 "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
-            },
-            {
-                "key": "pgfenwe078",
-                "name": "🏵KM | 四圈",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
             },
             {
                 "key": "moviegsl99",
@@ -716,86 +473,72 @@
                 "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
             },
              {
-                "key": "feifei67",
-                "name": "🏵KM | 飞飞",
-                "type": 3,
-                "api": "caiji.js",
-                "ext": "http://www.feifei67.com/api.php/provide/vod/at/json"
-            },
-           {
         "key": "阿里盘寻",
-        "name": "🍭KM丨盘寻",
+        "name": "🍭仅搜索丨盘寻",
         "type": 3,
         "api": "pansearch_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "阿里盘搜",
-        "name": "🍭KM丨盘搜",
+        "name": "🍭仅搜索丨盘搜",
         "type": 3,
         "api": "pansou_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "阿里七夜",
-        "name": "🍭KM丨七夜",
+        "name": "🍭仅搜索丨七夜",
         "type": 3,
         "api": "dovx_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "小纸条",
-        "name": "🍭KM丨纸条",
+        "name": "🍭仅搜索丨纸条",
         "type": 3,
         "api": "xiaozhitiao_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "UP云搜",
-        "name": "🍭KM丨云搜",
+        "name": "🍭仅搜索丨云搜",
         "type": 3,
         "api": "upyun_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "易搜",
-        "name": "🍭KM丨易搜",
+        "name": "🍭仅搜索丨易搜",
         "type": 3,
         "api": "yiso_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "云盘4K",
-        "name": "🍭KM丨云盘",
+        "name": "🍭仅搜索丨云盘",
         "type": 3,
         "api": "yunpan4k_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
     },
     {
         "key": "找资源",
-        "name": "🍭KM丨资源",
+        "name": "🍭仅搜索丨资源",
         "type": 3,
         "api": "zhaozy_open.js",
         "ext": "4f7952322f6848c08854e85561b570c2"
-    },
-    {
-        "key": "夸克趣盘搜",
-        "name": "🍭KM丨夸克",
-        "type": 3,
-        "api": "funletu_open.js",
-        "ext": "夸克cookie"
   }     
     ]
   },
-  "read": {
-     "sites": [      
-        {
-                "key": "zz123",
-                "name": "🎧KM丨音乐",
-                "type": 10,
-                "api": "zz123_open.js"
-            },   
-   {
+       "read": {
+          "sites": [
+      {
+        "key": "13bqg",
+        "name": "🎧KM丨笔趣",
+        "type": 10,
+        "api": "./13bqg_open.js"
+      },
+      {
         "key": "bookan",
         "name": "🎧KM丨博看",
         "type": 10,
@@ -815,6 +558,26 @@
     }
    ]
   },   
+   
+    "comic": {
+      "sites": [
+           {"key": "copymanga",
+            "name": "🟢KM丨拷贝漫画",
+           "type": 20,
+         "api": "./copymanga_open.js"},
+
+             {"key": "mkz",
+              "name": "🟢KM丨漫客漫画",
+            "type": 20,
+          "api": "./mkz_open.js"},
+
+            {"key": "bengou",
+              "name": "🟢KM丨笨狗漫画",
+            "type": 20,
+          "api": "./bengou_open.js"}
+      ]
+  },
+
    "pan": {
     "sites": [
       {
